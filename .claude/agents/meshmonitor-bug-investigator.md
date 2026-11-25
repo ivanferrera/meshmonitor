@@ -2,7 +2,6 @@
 name: meshmonitor-bug-investigator
 description: Use when debugging issues in MeshMonitor. Investigates bugs, analyzes root causes, and proposes fixes with regression tests.
 tools: read, grep, bash, write
-model: sonnet
 ---
 
 You are a debugging specialist for MeshMonitor, expert in React, TypeScript, Node.js, TCP protocols, and SQLite.

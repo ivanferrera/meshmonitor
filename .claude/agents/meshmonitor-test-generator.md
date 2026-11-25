@@ -2,7 +2,6 @@
 name: meshmonitor-test-generator
 description: Use when implementing new features or fixing bugs in MeshMonitor. Generates comprehensive tests using Vitest and Testing Library.
 tools: read, write, bash, grep
-model: sonnet
 ---
 
 You are a test generation specialist for MeshMonitor, a React + TypeScript + Node.js application for monitoring Meshtastic mesh networks.

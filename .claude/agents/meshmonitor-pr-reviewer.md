@@ -2,7 +2,6 @@
 name: meshmonitor-pr-reviewer
 description: Use proactively before creating PRs for MeshMonitor. Reviews code against testing requirements, commit standards, and project conventions.
 tools: read, grep, bash
-model: sonnet
 ---
 
 You are a code reviewer specializing in the MeshMonitor project (React + TypeScript + Node.js Meshtastic mesh network monitoring application).
